@@ -1,0 +1,486 @@
+Ttwit
+v7
+r0
+t320603474.903150
+cCheck dependencies
+cProcessInfoPlistFile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Info.plist twit-Info.plist
+cCompileXIB /Users/schoenfe/Desktop/repo/twit/MainWindow.xib
+cCompileXIB /Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib
+cCpResource build/Debug-iphonesimulator/twit.app/Icon-72.png Classes/icons/Icon-72.png
+cCpResource build/Debug-iphonesimulator/twit.app/Icon-Small-50.png Classes/icons/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/twit.app/Icon-Small.png Classes/icons/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/twit.app/Icon-Small@2x.png Classes/icons/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/twit.app/Icon.png Classes/icons/Icon.png
+cCpResource build/Debug-iphonesimulator/twit.app/Icon@2x.png Classes/icons/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/twit.app/iTunesArtwork Classes/icons/iTunesArtwork
+cCpResource build/Debug-iphonesimulator/twit.app/twitlogo.png twitlogo.png
+cCompileXIB /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib
+cProcessPCH /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch.gch twit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/main.o /Users/schoenfe/Desktop/repo/twit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitAppDelegate.o /Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitViewController.o /Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/TwitCell.o /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit normal i386
+cGenerateDSYMFile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app.dSYM /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit
+cTouch /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib
+c000000004D6BCD750000000000005E7E
+t1298910581
+s24190
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.h
+c000000004D6BCA970000000000000181
+t1298909847
+s385
+i<UIKit/UIKit.h>
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m
+c000000004D6BCA9E00000000000002BB
+t1298909854
+s699
+i"TwitCell.h"
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib
+c000000004D6BCD3F0000000000004BDB
+t1298910527
+s19419
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-72.png
+c000000004D69BDF50000000000002E5F
+t1298775541
+s11871
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small-50.png
+c000000004D69BDF5000000000000233B
+t1298775541
+s9019
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small.png
+c000000004D69BDF50000000000001CD7
+t1298775541
+s7383
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small@2x.png
+c000000004D69BDF500000000000027A8
+t1298775541
+s10152
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon.png
+c000000004D69BDF5000000000000270F
+t1298775541
+s9999
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon@2x.png
+c000000004D69BDF50000000000004AD1
+t1298775541
+s19153
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/icons/iTunesArtwork
+c000000004D69BDF50000000000031A1B
+t1298775541
+s203291
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.h
+c000000004D6BC007000000000000024B
+t1298907143
+s587
+i<UIKit/UIKit.h>
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m
+c000000004D6BCAFA0000000000000B8C
+t1298909946
+s2956
+i"twitAppDelegate.h"
+i"twitViewController.h"
+i"TwitCell.h"
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.h
+c000000004D6BCBD00000000000000375
+t1298910160
+s885
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i"twitAppDelegate.h"
+
+N/Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m
+c000000004D6BCDCE0000000000001D6E
+t1298910670
+s7534
+i"twitViewController.h"
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i"twitAppDelegate.h"
+i"TwitCell.h"
+
+N/Users/schoenfe/Desktop/repo/twit/MainWindow.xib
+c000000004D6BBF9000000000000050B0
+t1298907024
+s20656
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app
+t1298910674
+s544
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app.dSYM
+t1298910674
+s102
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon-72.png
+t1298775601
+s11871
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon-Small-50.png
+t1298775601
+s9019
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon-Small.png
+t1298775601
+s7383
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon-Small@2x.png
+t1298775601
+s10152
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon.png
+t1298775601
+s9999
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Icon@2x.png
+t1298775601
+s19153
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Info.plist
+t1298773198
+s579
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/MainWindow.nib
+t1298907144
+s1117
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/PkgInfo
+t1298773198
+s8
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/TwitCell.nib
+t1298910532
+s1869
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/iTunesArtwork
+t1298775601
+s203291
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit
+t1298910674
+s31504
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twitViewController.nib
+t1298910593
+s1402
+
+N/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twitlogo.png
+t1298908275
+s7054
+
+N/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/TwitCell.o
+t1298910180
+s40124
+
+N/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/main.o
+t1298773200
+s6292
+
+N/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twit.LinkFileList
+c000000004D6BCBE400000000000001D9
+t1298910180
+s473
+
+N/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitAppDelegate.o
+t1298910180
+s55680
+
+N/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitViewController.o
+t1298910674
+s71544
+
+N/Users/schoenfe/Desktop/repo/twit/main.m
+c000000004D69B0D4000000000000016A
+t1298772180
+s362
+i<UIKit/UIKit.h>
+
+N/Users/schoenfe/Desktop/repo/twit/twitViewController.xib
+c000000004D69B0D40000000000001A39
+t1298772180
+s6713
+
+N/Users/schoenfe/Desktop/repo/twit/twit_Prefix.pch
+c000000004D69B0D400000000000000B1
+t1298772180
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/schoenfe/Desktop/repo/twit/twitlogo.png
+c000000004D6BC4680000000000001B8E
+t1298908264
+s7054
+
+N/var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch.gch
+t1298773200
+s15453392
+
+Ntwit-Info.plist
+c000000004D69B0D4000000000000038D
+t1298772180
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320603474#320603474#0(0"0(0#1#0"8638807488#0"0#
+
+CCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/TwitCell.o /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320602980.805344
+e320602980.982879
+r1
+xCompileC
+xbuild/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/TwitCell.o
+x/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m320602980#320602980#0(0"0(0#0#52"/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m8639435456#1815"    cd /Users/schoenfe/Desktop/repo/twit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-generated-files.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-own-target-headers.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-all-target-headers.hmap -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-project-headers.hmap -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -I/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/include -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources/i386 -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources -include /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch -c /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.m -o /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/TwitCell.o0#
+
+CCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/main.o /Users/schoenfe/Desktop/repo/twit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320466000.460867
+e320466000.561612
+r1
+xCompileC
+xbuild/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/main.o
+x/Users/schoenfe/Desktop/repo/twit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/schoenfe/Desktop/repo/twit/main.m320466000#320466000#0(0"0(0#0#40"/Users/schoenfe/Desktop/repo/twit/main.m8617056448#1799"    cd /Users/schoenfe/Desktop/repo/twit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-generated-files.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-own-target-headers.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-all-target-headers.hmap -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-project-headers.hmap -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -I/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/include -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources/i386 -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources -include /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch -c /Users/schoenfe/Desktop/repo/twit/main.m -o /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/main.o0#
+
+CCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitAppDelegate.o /Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320602980.659986
+e320602980.805186
+r1
+xCompileC
+xbuild/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitAppDelegate.o
+x/Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m320602980#320602980#0(0"0(0#0#59"/Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m8622765408#1829"    cd /Users/schoenfe/Desktop/repo/twit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-generated-files.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-own-target-headers.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-all-target-headers.hmap -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-project-headers.hmap -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -I/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/include -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources/i386 -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources -include /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch -c /Users/schoenfe/Desktop/repo/twit/Classes/twitAppDelegate.m -o /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitAppDelegate.o0#
+
+CCompileC build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitViewController.o /Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320603474.652069
+e320603474.850453
+r1
+xCompileC
+xbuild/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitViewController.o
+x/Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m320603474#320603474#0(0"0(0#0#62"/Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m8643486848#1835"    cd /Users/schoenfe/Desktop/repo/twit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-generated-files.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-own-target-headers.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-all-target-headers.hmap -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-project-headers.hmap -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -I/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/include -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources/i386 -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources -include /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch -c /Users/schoenfe/Desktop/repo/twit/Classes/twitViewController.m -o /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twitViewController.o0#
+
+CCompileXIB /Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib
+s320603393.140183
+e320603393.563639
+r1
+xCompileXIB
+x/Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib
+lSLF07#2@44"CompileXIB Classes/../twitViewController.xib320603393#320603393#0(0"0(0#0#67"/Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib8626535712#579"    cd /Users/schoenfe/Desktop/repo/twit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twitViewController.nib /Users/schoenfe/Desktop/repo/twit/Classes/../twitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib
+s320603331.768030
+e320603332.327522
+r1
+xCompileXIB
+x/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib
+lSLF07#2@31"CompileXIB Classes/TwitCell.xib320603331#320603332#0(0"0(0#0#54"/Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib8622781440#556"    cd /Users/schoenfe/Desktop/repo/twit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/TwitCell.nib /Users/schoenfe/Desktop/repo/twit/Classes/TwitCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/schoenfe/Desktop/repo/twit/MainWindow.xib
+s320599943.867653
+e320599944.253051
+r1
+xCompileXIB
+x/Users/schoenfe/Desktop/repo/twit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320599943#320599944#0(0"0(0#0#48"/Users/schoenfe/Desktop/repo/twit/MainWindow.xib8619083136#552"    cd /Users/schoenfe/Desktop/repo/twit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/MainWindow.nib /Users/schoenfe/Desktop/repo/twit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/schoenfe/Desktop/repo/twit/twitViewController.xib
+s320465998.517836
+e320465999.275843
+r1
+xCompileXIB
+x/Users/schoenfe/Desktop/repo/twit/twitViewController.xib
+lSLF07#2@33"CompileXIB twitViewController.xib320465998#320465999#0(0"0(0#0#56"/Users/schoenfe/Desktop/repo/twit/twitViewController.xib8611743488#568"    cd /Users/schoenfe/Desktop/repo/twit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twitViewController.nib /Users/schoenfe/Desktop/repo/twit/twitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon-72.png Classes/icons/Icon-72.png
+s320468401.041906
+e320468401.089538
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon-72.png
+xClasses/icons/Icon-72.png
+lSLF07#2@30"Copy Classes/icons/Icon-72.png320468401#320468401#0(0"0(0#0#59"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-72.png13229813538947188#465"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-72.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon-Small-50.png Classes/icons/Icon-Small-50.png
+s320468401.050866
+e320468401.089663
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon-Small-50.png
+xClasses/icons/Icon-Small-50.png
+lSLF07#2@36"Copy Classes/icons/Icon-Small-50.png320468401#320468401#0(0"0(0#0#65"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small-50.png8627558496#471"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small-50.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon-Small.png Classes/icons/Icon-Small.png
+s320468401.054304
+e320468401.087993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon-Small.png
+xClasses/icons/Icon-Small.png
+lSLF07#2@33"Copy Classes/icons/Icon-Small.png320468401#320468401#0(0"0(0#0#62"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small.png8626847264#468"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon-Small@2x.png Classes/icons/Icon-Small@2x.png
+s320468401.056377
+e320468401.089786
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon-Small@2x.png
+xClasses/icons/Icon-Small@2x.png
+lSLF07#2@36"Copy Classes/icons/Icon-Small@2x.png320468401#320468401#0(0"0(0#0#65"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small@2x.png8625826464#471"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon-Small@2x.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon.png Classes/icons/Icon.png
+s320468401.058262
+e320468401.089205
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon.png
+xClasses/icons/Icon.png
+lSLF07#2@27"Copy Classes/icons/Icon.png320468401#320468401#0(0"0(0#0#56"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon.png8624649216#462"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/Icon@2x.png Classes/icons/Icon@2x.png
+s320468401.060043
+e320468401.089341
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/Icon@2x.png
+xClasses/icons/Icon@2x.png
+lSLF07#2@30"Copy Classes/icons/Icon@2x.png320468401#320468401#0(0"0(0#0#59"/Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon@2x.png8624093440#465"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/Icon@2x.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/iTunesArtwork Classes/icons/iTunesArtwork
+s320468401.061963
+e320468401.089902
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/iTunesArtwork
+xClasses/icons/iTunesArtwork
+lSLF07#2@32"Copy Classes/icons/iTunesArtwork320468401#320468401#0(0"0(0#0#61"/Users/schoenfe/Desktop/repo/twit/Classes/icons/iTunesArtwork8617368480#467"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/Classes/icons/iTunesArtwork /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CCpResource build/Debug-iphonesimulator/twit.app/twitlogo.png twitlogo.png
+s320601075.830302
+e320601075.854530
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/twit.app/twitlogo.png
+xtwitlogo.png
+lSLF07#2@17"Copy twitlogo.png320601075#320601075#0(0"0(0#0#46"/Users/schoenfe/Desktop/repo/twit/twitlogo.png8620549696#452"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/schoenfe/Desktop/repo/twit/twitlogo.png /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
+CGenerateDSYMFile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app.dSYM /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit
+s320603474.879082
+e320603474.899906
+r1
+xGenerateDSYMFile
+x/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app.dSYM
+x/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/twit.app.dSYM build/Debug-iphonesimulator/twit.app/twit320603474#320603474#0(0"0(0#0#75"/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit8643845408#359"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit -o /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app.dSYM0#
+
+CLd /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit normal i386
+s320603474.850552
+e320603474.878986
+r1
+xLd
+x/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit
+xnormal
+xi386
+lSLF07#2@80"Link /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit320603474#320603474#0(0"0(0#0#0"8644104992#883"    cd /Users/schoenfe/Desktop/repo/twit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -filelist /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/Objects-normal/i386/twit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/twit0#
+
+CProcessInfoPlistFile /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Info.plist twit-Info.plist
+s320465998.503992
+e320465998.507780
+r1
+xProcessInfoPlistFile
+x/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Info.plist
+xtwit-Info.plist
+lSLF07#2@23"Process twit-Info.plist320465998#320465998#0(0"0(0#0#49"/Users/schoenfe/Desktop/repo/twit/twit-Info.plist8614634944#455"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility twit-Info.plist -genpkginfo /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app/Info.plist0#
+
+CProcessPCH /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch.gch twit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320465999.289703
+e320466000.460711
+r1
+xProcessPCH
+x/var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch.gch
+xtwit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile twit_Prefix.pch320465999#320466000#0(0"0(0#0#49"/Users/schoenfe/Desktop/repo/twit/twit_Prefix.pch8615439200#1699"    cd /Users/schoenfe/Desktop/repo/twit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-generated-files.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-own-target-headers.hmap -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-all-target-headers.hmap -iquote /Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/twit-project-headers.hmap -F/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator -I/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/include -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources/i386 -I/Users/schoenfe/Desktop/repo/twit/build/twit.build/Debug-iphonesimulator/twit.build/DerivedSources -c /Users/schoenfe/Desktop/repo/twit/twit_Prefix.pch -o /var/folders/js/js-b8IpoE4SRA+SAPahBjU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/twit_Prefix-cliajerircibevgieuomtweuxtzv/twit_Prefix.pch.gch0#
+
+CTouch /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app
+s320603474.899990
+e320603474.903100
+r1
+xTouch
+x/Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app
+lSLF07#2@76"Touch /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app320603474#320603474#0(0"0(0#0#0"8639857504#265"    cd /Users/schoenfe/Desktop/repo/twit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/schoenfe/Desktop/repo/twit/build/Debug-iphonesimulator/twit.app0#
+
